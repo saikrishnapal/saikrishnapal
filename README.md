@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Name: Saikrishna<br><br>🎓 Current Status: 3rd Year CSE (AI & ML) Student at KIIT<br><br>🤖 Core Expertise: Artificial Intelligence, Machine Learning, Robotics, Embedded Systems, and Unmanned Aerial Vehicles (UAVs)<br><br>💻 Programming Languages: Python, C, C++, and Java ⚙️ What I Do: Build end-to-end systems that bridge intelligent software algorithms with physical hardware💬 Ask Me About: AI applications in robotics, UAV flight controllers, microcontroller setups, and systems programming<br><br>⚡ Fun Fact: If it flies, rolls, or processes data on the edge, I'm probably trying to build, program, or optimize it
+👋 Name: Saikrishna<br><br>🎓 Current Status: 3rd Year CSE (AI & ML) Student at KIIT<br><br>🤖 Core Expertise: Artificial Intelligence, Machine Learning, Robotics, Embedded Systems, and Unmanned Aerial Vehicles (UAVs)<br><br>💻 Programming Languages: Python, C, C++, and Java <br><br> ⚙️ What I Do: Build end-to-end systems that bridge intelligent software algorithms with physical hardware <br><br>💬 Ask Me About: AI applications in robotics, UAV flight controllers, microcontroller setups, and systems programming<br><br>⚡ Fun Fact: If it flies, rolls, or processes data on the edge, I'm probably trying to build, program, or optimize it
 
 
 ## 🌐 Socials:
